@@ -1,0 +1,16 @@
+@import url(https://fonts.bunny.net/css?family=poppins:400,500,700,900);
+
+//$primary: rgb(118, 233, 10);
+
+$primary: #6B4B9B;
+$primary2: #3D94D0;
+$secondary: #2f2a71;
+$amarillo: #f49619;
+$gray: #3e4449; //
+$blanco: #fff;
+$fondosecciones: #fafafa;
+$fondoetiquetas: pink;
+
+$gap: 32px;
+$fullhd: 1632px + (2 * $gap);
+@import "../node_modules/bulma/bulma.sass";
